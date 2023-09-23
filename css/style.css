@@ -936,12 +936,12 @@ small {
   width: 100%;
 }
 
-form {
+.formBx {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  /* border:solid #fff; */
+  /* border:solid #33322d; */
   width: 90%;
   /* height: 100%; */
   /* margin: 15px; */
