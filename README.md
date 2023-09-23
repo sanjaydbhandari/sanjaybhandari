@@ -1,5 +1,8 @@
 # Responsive_Portfolio_Website
 A Responsive Portfolio Website using HTML5, CSS3, and Javascript.
+
+<img src="https://github.com/sanjaydbhandari/sanjaybhandari/blob/main/portfolio-screenshot.png">
+
 <p>
 🌐 I've meticulously designed and developed a responsive Portfolio Website, seamlessly blending HTML, CSS, and JavaScript to create a dynamic online showcase of my professional journey. This website not only highlights my technical prowess but also ensures an optimal and engaging user experience across various devices, from desktop to mobile.
 </p>
