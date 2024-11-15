@@ -233,7 +233,6 @@ h1 {
   position: relative;
   background: #1d1919;
   height: 100vh;
-  border: solid #fbfbfb;
 }
 
 #skills {
@@ -307,6 +306,7 @@ h2 {
   /* padding-bottom: 50px; */
   box-shadow: 0 0 1px 5px rgba(30, 29, 29, 0.5);
   opacity: 0.8;
+  transition: background 0.3s ease-in-out 0.5s;
 }
 .contentBx:hover {
   transition: 0.5 ease-in-out;
@@ -674,6 +674,7 @@ small {
   padding: 10px;
   /* margin: 10px; */
   background-color: var(--dimblack);
+  transition: background 0.3s ease-in-out 0.5s;
   box-shadow: 0px 1px 8px 0px var(--yellow);
 }
 
@@ -699,8 +700,7 @@ small {
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
     rgba(255, 255, 255, 0.3) 0px 8px 16px -8px;
 }
-.projectBx {
-}
+
 .cards {
   display: flex;
   justify-content: center;
@@ -734,8 +734,8 @@ small {
 .projectBx:hover {
   border: 3px solid var(--yellow);
   border-radius: 10px;
-  /* transform: scale(1);
-    transition: 1s;
+  transform: scale(1);
+   /*  transition: 1s;
     padding: 5px; */
 }
 
